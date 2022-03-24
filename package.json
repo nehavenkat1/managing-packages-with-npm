@@ -1,6 +1,7 @@
 {
-	"name": "fcc-learn-npm-package-json",
 	"author": "Neha",
+	"name": "fcc-learn-npm-package-json",
+	"description": "Nodejs is awesome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
