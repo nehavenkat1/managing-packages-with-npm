@@ -2,6 +2,7 @@
 	"author": "Neha",
 	"name": "fcc-learn-npm-package-json",
 	"description": "Nodejs is awesome",
+	"keywords": ["freecodecamp", "another keyword"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
